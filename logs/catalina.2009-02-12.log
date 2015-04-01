@@ -1,0 +1,64 @@
+Feb 12, 2009 9:22:04 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.5.0_09\bin;.;C:\WINDOWS\system32;C:\WINDOWS;c:\program files\imagemagick-6.2.9-q16;C:\texmf\miktex\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\SSH Communications Security\SSH Secure Shell
+Feb 12, 2009 9:22:04 AM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-8080
+Feb 12, 2009 9:22:04 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1644 ms
+Feb 12, 2009 9:22:04 AM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+Feb 12, 2009 9:22:04 AM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.18
+Feb 12, 2009 9:22:05 AM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-8080
+Feb 12, 2009 9:22:05 AM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+Feb 12, 2009 9:22:05 AM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/31  config=null
+Feb 12, 2009 9:22:05 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1625 ms
+Feb 12, 2009 10:16:18 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context []
+Feb 12, 2009 10:16:28 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context []
+Feb 12, 2009 10:34:59 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context []
+Feb 12, 2009 10:36:09 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context []
+Feb 12, 2009 10:40:30 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context []
+Feb 12, 2009 10:41:00 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context []
+Feb 12, 2009 10:49:30 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/examples]
+Feb 12, 2009 10:49:31 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/host-manager]
+Feb 12, 2009 10:49:31 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/docs]
+Feb 12, 2009 10:49:31 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context []
+Feb 12, 2009 10:49:31 AM org.apache.catalina.startup.HostConfig checkResources
+INFO: Reloading context [/manager]
+Feb 12, 2009 11:27:53 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading this Context has started
+Feb 12, 2009 11:46:13 AM org.apache.catalina.loader.WebappClassLoader modified
+INFO:     Additional JARs have been added
+Feb 12, 2009 11:46:13 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading this Context has started
+Feb 12, 2009 11:50:54 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading this Context has started
+Feb 12, 2009 11:55:34 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading this Context has started
+Feb 12, 2009 11:56:45 AM org.apache.catalina.core.StandardContext reload
+INFO: Reloading this Context has started
+Feb 12, 2009 1:08:19 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading this Context has started
+Feb 12, 2009 1:14:10 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading this Context has started
+Feb 12, 2009 1:21:20 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading this Context has started
+Feb 12, 2009 1:22:41 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading this Context has started
+Feb 12, 2009 1:22:41 PM org.apache.catalina.core.StandardWrapper unload
+INFO: Waiting for 1 instance(s) to be deallocated
+Feb 12, 2009 1:26:22 PM org.apache.catalina.core.StandardContext reload
+INFO: Reloading this Context has started
